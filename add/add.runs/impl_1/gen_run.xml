@@ -1,43 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <GenRun Id="impl_1" LaunchPart="xc7a35tcsg324-1" LaunchTime="1747899610">
-  <File Type="BITSTR-BMM" Name="addr2b_hex8seg_EGo1_bd.bmm"/>
-  <File Type="OPT-METHODOLOGY-DRC" Name="addr2b_hex8seg_EGo1_methodology_drc_opted.rpt"/>
-  <File Type="INIT-TIMING" Name="addr2b_hex8seg_EGo1_timing_summary_init.rpt"/>
   <File Type="ROUTE-PWR" Name="addr2b_hex8seg_EGo1_power_routed.rpt"/>
   <File Type="PA-TCL" Name="addr2b_hex8seg_EGo1.tcl"/>
-  <File Type="OPT-TIMING" Name="addr2b_hex8seg_EGo1_timing_summary_opted.rpt"/>
-  <File Type="OPT-DCP" Name="addr2b_hex8seg_EGo1_opt.dcp"/>
+  <File Type="BITSTR-BMM" Name="addr2b_hex8seg_EGo1_bd.bmm"/>
   <File Type="ROUTE-PWR-SUM" Name="addr2b_hex8seg_EGo1_power_summary_routed.pb"/>
   <File Type="REPORTS-TCL" Name="addr2b_hex8seg_EGo1_reports.tcl"/>
+  <File Type="OPT-DCP" Name="addr2b_hex8seg_EGo1_opt.dcp"/>
   <File Type="OPT-DRC" Name="addr2b_hex8seg_EGo1_drc_opted.rpt"/>
   <File Type="OPT-HWDEF" Name="addr2b_hex8seg_EGo1.hwdef"/>
   <File Type="PWROPT-DCP" Name="addr2b_hex8seg_EGo1_pwropt.dcp"/>
-  <File Type="PWROPT-DRC" Name="addr2b_hex8seg_EGo1_drc_pwropted.rpt"/>
-  <File Type="PWROPT-TIMING" Name="addr2b_hex8seg_EGo1_timing_summary_pwropted.rpt"/>
   <File Type="PLACE-DCP" Name="addr2b_hex8seg_EGo1_placed.dcp"/>
   <File Type="PLACE-IO" Name="addr2b_hex8seg_EGo1_io_placed.rpt"/>
-  <File Type="PLACE-CLK" Name="addr2b_hex8seg_EGo1_clock_utilization_placed.rpt"/>
   <File Type="PLACE-UTIL" Name="addr2b_hex8seg_EGo1_utilization_placed.rpt"/>
   <File Type="PLACE-UTIL-PB" Name="addr2b_hex8seg_EGo1_utilization_placed.pb"/>
   <File Type="PLACE-CTRL" Name="addr2b_hex8seg_EGo1_control_sets_placed.rpt"/>
-  <File Type="PLACE-SIMILARITY" Name="addr2b_hex8seg_EGo1_incremental_reuse_placed.rpt"/>
   <File Type="PLACE-PRE-SIMILARITY" Name="addr2b_hex8seg_EGo1_incremental_reuse_pre_placed.rpt"/>
-  <File Type="PLACE-TIMING" Name="addr2b_hex8seg_EGo1_timing_summary_placed.rpt"/>
   <File Type="POSTPLACE-PWROPT-DCP" Name="addr2b_hex8seg_EGo1_postplace_pwropt.dcp"/>
   <File Type="BG-BIN" Name="addr2b_hex8seg_EGo1.bin"/>
-  <File Type="POSTPLACE-PWROPT-TIMING" Name="addr2b_hex8seg_EGo1_timing_summary_postplace_pwropted.rpt"/>
   <File Type="PHYSOPT-DCP" Name="addr2b_hex8seg_EGo1_physopt.dcp"/>
-  <File Type="PHYSOPT-DRC" Name="addr2b_hex8seg_EGo1_drc_physopted.rpt"/>
   <File Type="BITSTR-MSK" Name="addr2b_hex8seg_EGo1.msk"/>
-  <File Type="PHYSOPT-TIMING" Name="addr2b_hex8seg_EGo1_timing_summary_physopted.rpt"/>
   <File Type="ROUTE-ERROR-DCP" Name="addr2b_hex8seg_EGo1_routed_error.dcp"/>
   <File Type="ROUTE-DCP" Name="addr2b_hex8seg_EGo1_routed.dcp"/>
   <File Type="ROUTE-BLACKBOX-DCP" Name="addr2b_hex8seg_EGo1_routed_bb.dcp"/>
   <File Type="ROUTE-DRC" Name="addr2b_hex8seg_EGo1_drc_routed.rpt"/>
   <File Type="ROUTE-DRC-PB" Name="addr2b_hex8seg_EGo1_drc_routed.pb"/>
   <File Type="ROUTE-DRC-RPX" Name="addr2b_hex8seg_EGo1_drc_routed.rpx"/>
-  <File Type="BITSTR-MMI" Name="addr2b_hex8seg_EGo1.mmi"/>
   <File Type="ROUTE-METHODOLOGY-DRC" Name="addr2b_hex8seg_EGo1_methodology_drc_routed.rpt"/>
+  <File Type="BITSTR-MMI" Name="addr2b_hex8seg_EGo1.mmi"/>
   <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="addr2b_hex8seg_EGo1_methodology_drc_routed.rpx"/>
   <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="addr2b_hex8seg_EGo1_methodology_drc_routed.pb"/>
   <File Type="ROUTE-PWR-RPX" Name="addr2b_hex8seg_EGo1_power_routed.rpx"/>
@@ -46,20 +35,13 @@
   <File Type="ROUTE-TIMINGSUMMARY" Name="addr2b_hex8seg_EGo1_timing_summary_routed.rpt"/>
   <File Type="ROUTE-TIMING-PB" Name="addr2b_hex8seg_EGo1_timing_summary_routed.pb"/>
   <File Type="ROUTE-TIMING-RPX" Name="addr2b_hex8seg_EGo1_timing_summary_routed.rpx"/>
-  <File Type="ROUTE-SIMILARITY" Name="addr2b_hex8seg_EGo1_incremental_reuse_routed.rpt"/>
   <File Type="ROUTE-CLK" Name="addr2b_hex8seg_EGo1_clock_utilization_routed.rpt"/>
   <File Type="ROUTE-BUS-SKEW" Name="addr2b_hex8seg_EGo1_bus_skew_routed.rpt"/>
   <File Type="ROUTE-BUS-SKEW-PB" Name="addr2b_hex8seg_EGo1_bus_skew_routed.pb"/>
   <File Type="ROUTE-BUS-SKEW-RPX" Name="addr2b_hex8seg_EGo1_bus_skew_routed.rpx"/>
   <File Type="POSTROUTE-PHYSOPT-DCP" Name="addr2b_hex8seg_EGo1_postroute_physopt.dcp"/>
   <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="addr2b_hex8seg_EGo1_postroute_physopt_bb.dcp"/>
-  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="addr2b_hex8seg_EGo1_timing_summary_postroute_physopted.rpt"/>
-  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="addr2b_hex8seg_EGo1_timing_summary_postroute_physopted.pb"/>
-  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="addr2b_hex8seg_EGo1_timing_summary_postroute_physopted.rpx"/>
-  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="addr2b_hex8seg_EGo1_bus_skew_postroute_physopted.rpt"/>
-  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="addr2b_hex8seg_EGo1_bus_skew_postroute_physopted.pb"/>
   <File Type="BG-BIT" Name="addr2b_hex8seg_EGo1.bit"/>
-  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="addr2b_hex8seg_EGo1_bus_skew_postroute_physopted.rpx"/>
   <File Type="BITSTR-RBT" Name="addr2b_hex8seg_EGo1.rbt"/>
   <File Type="BITSTR-NKY" Name="addr2b_hex8seg_EGo1.nky"/>
   <File Type="PDI-FILE" Name="addr2b_hex8seg_EGo1.pdi"/>
@@ -68,7 +50,6 @@
   <File Type="RNPI_FILE" Name="addr2b_hex8seg_EGo1.rnpi"/>
   <File Type="NPI_FILE" Name="addr2b_hex8seg_EGo1.npi"/>
   <File Type="RBD_FILE" Name="addr2b_hex8seg_EGo1.rbd"/>
-  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
   <File Type="BITSTR-LTX" Name="addr2b_hex8seg_EGo1.ltx"/>
   <File Type="BITSTR-SYSDEF" Name="addr2b_hex8seg_EGo1.sysdef"/>
   <File Type="BG-BGN" Name="addr2b_hex8seg_EGo1.bgn"/>
@@ -139,9 +120,7 @@
     </Config>
   </FileSet>
   <Strategy Version="1" Minor="2">
-    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019">
-      <Desc>Default settings for Implementation.</Desc>
-    </StratHandle>
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019"/>
     <Step Id="init_design"/>
     <Step Id="opt_design"/>
     <Step Id="power_opt_design"/>
@@ -151,5 +130,6 @@
     <Step Id="route_design"/>
     <Step Id="post_route_phys_opt_design"/>
     <Step Id="write_bitstream"/>
+    <Step Id="write_device_image"/>
   </Strategy>
 </GenRun>
