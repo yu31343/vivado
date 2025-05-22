@@ -29,5 +29,5 @@ module addr2b_hex8seg_EGo1(
         output wire [7:0] seg_data_0_pin);
     addr_2bit addr2(S, Co, A, B, Ci);
 
-    hex8seg_EGo1 he({'b0, Co, S}, seg_cs_pin, seg_data_O_pin);
+    hex8seg_EGo1 he({'b0, Co, S}, seg_cs_pin, seg_data_0_pin);
 endmodule
