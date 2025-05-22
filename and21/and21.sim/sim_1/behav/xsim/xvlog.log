@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/31343/Documents/VivadoFiles/and21/and21.srcs/sources_1/new/and21.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module and21
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/31343/Documents/VivadoFiles/and21/and21.srcs/sources_1/new/and61.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module and61
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/31343/Documents/VivadoFiles/and21/and21.srcs/sim_1/new/sim_and61.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sim_and61

@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Sun May 11 23:04:59 2025
+# Process ID: 31068
+# Current directory: D:/31343/Documents/VivadoFiles/test/test.runs/synth_1
+# Command line: vivado.exe -log test1.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source test1.tcl
+# Log file: D:/31343/Documents/VivadoFiles/test/test.runs/synth_1/test1.vds
+# Journal file: D:/31343/Documents/VivadoFiles/test/test.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source test1.tcl -notrace

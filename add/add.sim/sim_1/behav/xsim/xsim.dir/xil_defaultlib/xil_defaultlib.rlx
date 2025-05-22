@@ -1,0 +1,10 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+D:/31343/Documents/VivadoFiles/add/add.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+D:/31343/Documents/VivadoFiles/add/add.srcs/sim_1/new/sim_addr.v,1747897618,verilog,,,,sim_addr,,,,,,,,
+D:/31343/Documents/VivadoFiles/add/add.srcs/sim_1/new/sim_addr_2bit.v,1747898000,verilog,,,,sim_addr_2bit,,,,,,,,
+D:/31343/Documents/VivadoFiles/add/add.srcs/sources_1/new/addr_2bit.v,1747897808,verilog,,D:/31343/Documents/VivadoFiles/add/add.srcs/sources_1/new/fulladder.v,,addr_2bit,,,,,,,,
+D:/31343/Documents/VivadoFiles/add/add.srcs/sources_1/new/fulladder.v,1747896943,verilog,,D:/31343/Documents/VivadoFiles/add/add.srcs/sources_1/new/halfadder.v,,fulladder,,,,,,,,
+D:/31343/Documents/VivadoFiles/add/add.srcs/sources_1/new/halfadder.v,1747896691,verilog,,D:/31343/Documents/VivadoFiles/add/add.srcs/sim_1/new/sim_addr_2bit.v,,halfadder,,,,,,,,
